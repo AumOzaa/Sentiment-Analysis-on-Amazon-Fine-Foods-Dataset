@@ -94,15 +94,3 @@ pip freeze > requirements.txt
 ```
 
 ---
-
-## 📦 What Else to Include in Your GitHub Repo
-
-Besides the `.ipynb` and `README.md`, you should include:
-
-| File | Purpose |
-|------|---------|
-| `requirements.txt` | For easy setup on client system |
-| `sentiment_model.py` (optional) | If you separate reusable code from the notebook |
-| `.gitignore` | To avoid uploading model weights or cache |
-| `LICENSE` | Optional if you want to open source it |
-| `inference.py` | (Optional) To demonstrate how a user can call your model with new input |
