@@ -85,12 +85,4 @@ scikit-learn
 nltk
 transformers
 torch
-```
-
-You can generate the full list using:
-
-```bash
-pip freeze > requirements.txt
-```
-
----
+``'
