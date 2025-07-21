@@ -40,12 +40,6 @@ The goal is to analyze customer sentiment (positive/negative/neutral) from writt
 pip install -r requirements.txt
 ```
 
-2. **Run the Jupyter Notebook**
-
-```bash
-jupyter notebook Sentiment_Analysis.ipynb
-```
-
 ---
 
 ## 📈 Output
